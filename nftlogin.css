@@ -1,0 +1,115 @@
+.image {
+  background-image: url("https://ritzherald.com/wp-content/uploads/2021/11/Tainsei-NFT-Collection-Japanese-Art-meets-Ethereum-900x425.jpg");
+  background-size: 300px 400px;
+  background-color: white;
+  color: #db6e14;
+  width: 269px;
+  height: 400px;
+  display: inline-block;
+  position: absolute;
+  border-radius: 15px 15px 200px 200px;
+}
+
+#left,
+#right {
+  display: inline-block;
+  width: 146px;
+  height: 500px;
+  background-color: #db6e14;
+}
+#left {
+  border-radius: 15px 0px 0px 15px;
+}
+
+#right {
+  border-radius: 15px 15px 15px 0px;
+}
+
+.cardclick {
+  position: absolute;
+  width: auto;
+  height: auto;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.firstbox {
+  background-color: white;
+  display: inline-block;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.s1class {
+  color: white;
+  position: absolute;
+  bottom: 0;
+  left: 63%;
+  margin-left: -50%;
+}
+.s1class span,
+.s2class span {
+  display: block;
+}
+.s2class {
+  color: white;
+  position: absolute;
+  bottom: 0;
+  right: 63%;
+  margin-right: -50%;
+}
+.mainheader {
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* second card */
+
+.card2 {
+  background-color: #db6e14;
+  width: 300px;
+  height: 500px;
+  border-radius: 15px;
+  position: absolute;
+  left: 370px;
+  display: inline-block;
+}
+
+.username {
+  font-weight: bold;
+  width: 230px;
+  margin: 0 35px 20px;
+  height: 45px;
+  padding: 6px 15px;
+  border-radius: 5px;
+  border: none;
+  background: #f6f7f9;
+  font-size: 14px;
+}
+
+.btn {
+  font-weight: bold;
+  width: 230px;
+  margin: 0 35px 20px;
+  height: 45px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  color: #db6e14;
+  background-color: white;
+}
+.signup1 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+.forgetpassword {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: -70px;
+}
